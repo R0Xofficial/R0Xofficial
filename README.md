@@ -81,4 +81,4 @@ On GitHub, you’ll find my projects, tools, experiments, and everything driven 
 
 If you want to collaborate, ask something, or just say hi — feel free to reach out:
 
-- 💬 **Telegram:** [@ItsR0Xx](https://t.me/R0X)
+- 💬 **Telegram:** [@ItsR0Xx](https://t.me/ItsR0Xx)
