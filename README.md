@@ -36,9 +36,3 @@
 <p align="center">
  ─ 💬 Telegram: <a href="https://t.me/R0X">@R0X</a> ─
 </p>
-
-<br>
-
-<h3 align="center">🌟 Motto</h3>
-
-<p align="center"><em>"If you can fix it — it’s not broken."</em></p>
