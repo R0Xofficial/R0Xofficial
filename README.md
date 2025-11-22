@@ -38,7 +38,7 @@ On GitHub, you’ll find my projects, tools, experiments, and everything driven 
 
 ### 🧰 Tools & Technologies
 - Git & GitHub  
-- Linux (Arch, Debian, Ubuntu, Termux)
+- Linux (Arch, Ubuntu, Termux)
 - Windows (10, 11)
 - XAMPP  
 - Apache  
