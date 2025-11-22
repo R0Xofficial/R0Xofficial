@@ -12,19 +12,19 @@
 
   <a href="https://github.com/R0X">
     <img alt="GitHub Stats" 
-         src="https://github-readme-stats.vercel.app/api/?username=R0X&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github"
+         src="https://github-readme-stats.vercel.app/api/?username=R0Xofficial&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github"
          height="180px"/>
   </a>
 
   <a href="https://github.com/R0X">
     <img alt="Top Languages" 
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=R0X&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=R0Xofficial&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
          height="180px"/>
   </a>
 
   <a href="https://github.com/R0X">
     <img alt="Contribution Graph" 
-         src="https://github-readme-activity-graph.vercel.app/graph?username=R0X&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5"/>
+         src="https://github-readme-activity-graph.vercel.app/graph?username=R0Xofficial&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5"/>
   </a>
 
 </div>
