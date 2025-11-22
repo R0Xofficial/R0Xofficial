@@ -19,7 +19,7 @@ On GitHub, you’ll find my projects, tools, experiments, and everything driven 
 
 ## 🧠 What I Do on GitHub
 
-- Create tools, scripts, utilities, and lightweight frameworks in **Python**, **Bash**, **PHP**
+- Create tools, scripts, utilities, and lightweight frameworks in **Python**, **Bash**
 - Build and test architectures for small and mid-size applications  
 - Experiment with backend logic and data structures  
 - Improve automation and coding workflows
