@@ -1,84 +1,44 @@
-# 🌌 R0X — Developer • Tech Enthusiast • Problem Solver
+<h1 align="center">👋 Hi there, I'm <strong>R0X</strong>!</h1>
 
-Hi there!  
-I'm **R0X**, a technology enthusiast passionate about computer science, teleinformatics, system engineering, and creating efficient digital solutions.  
-On GitHub, you’ll find my projects, tools, experiments, and everything driven by pure curiosity and love for technology.
+<p align="center">
+  Passionate developer, tech enthusiast, system tinkerer and someone who loves optimizing, fixing and creating useful tools.  
+</p>
 
----
+<br>
 
-## 🚀 About Me
+<h2 align="center">⚡ GitHub Stats</h2>
 
-- 💻 Developer who values clean, logical, and efficient code  
-- 🛠 Technician skilled in both software and hardware  
-- 🧩 Problem solver who enjoys debugging and breaking complex tasks into simple steps  
-- 🎓 Constant learner and self-improver  
-- 🔍 Optimization fan — performance, structure, workflow  
-- ⚡ Interests: computer science, teleinformatics, system engineering, automation, open-source
+<div align="center">
 
----
+  <a href="https://github.com/R0X">
+    <img alt="GitHub Stats" 
+         src="https://github-readme-stats.vercel.app/api/?username=R0X&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github"
+         height="180px"/>
+  </a>
 
-## 🧠 What I Do on GitHub
+  <a href="https://github.com/R0X">
+    <img alt="Top Languages" 
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=R0X&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
+         height="180px"/>
+  </a>
 
-- Create tools, scripts, utilities, and lightweight frameworks in **Python**, **Bash**
-- Build and test architectures for small and mid-size applications  
-- Experiment with backend logic and data structures  
-- Improve automation and coding workflows
+  <a href="https://github.com/R0X">
+    <img alt="Contribution Graph" 
+         src="https://github-readme-activity-graph.vercel.app/graph?username=R0X&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5"/>
+  </a>
 
----
+</div>
 
-## ⚙️ Tech Stack
+<br>
 
-### 💻 Languages
-- Python  
-- JavaScript (Learning)
-- Bash
-- PHP
-- SQL
-- HTML & CSS
+<h2 align="center">📫 Contact</h2>
 
-### 🧰 Tools & Technologies
-- Git & GitHub  
-- Linux (Arch, Ubuntu, Termux)
-- Windows (10, 11)
-- XAMPP  
-- Apache  
-- VS Code  
-- SQLite / MySQL  
-- Hardware diagnostics and repair
+<p align="center">
+ ─ 💬 Telegram: <a href="https://t.me/R0X">@R0X</a> ─
+</p>
 
----
+<br>
 
-## 🛠 Skills
+<h3 align="center">🌟 Motto</h3>
 
-- 🔧 Programming & process automation  
-- 🖥 Linux system administration  
-- 📡 Teleinformatics & networking  
-- 🛠 Repairing PCs, laptops, tablets, and phones  
-- 🧪 Testing, optimization, stability improvements  
-- 🏗 Designing modular application architecture  
-
----
-
-## 📚 Currently Learning
-
-- JavaScript
-- Application optimization
-- Extended Linux & system administration  
-- Improved developer workflows  
-
----
-
-## 🎯 Goals
-
-- Create practical open-source tools  
-- Build solutions that solve real problems  
-- Expand knowledge and engineering skills  
-- Deliver well-documented, user-friendly projects  
-
----
-
-## 📫 Contact
-
-If you want to collaborate, ask something, or just say hi — feel free to reach out:
-
-- 💬 **Telegram:** [@ItsR0Xx](https://t.me/ItsR0Xx)
+<p align="center"><em>"If you can fix it — it’s not broken."</em></p>
